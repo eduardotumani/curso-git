@@ -10,6 +10,8 @@ namespace AULA08_01
 
             Console.WriteLine("Good morning");
 
+            Console.WriteLine("How are you today?");
+
             Console.WriteLine();
         }
     }
