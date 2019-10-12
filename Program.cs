@@ -12,6 +12,8 @@ namespace AULA08_01
 
             Console.WriteLine("How are you today?");
 
+            Console.WriteLine("Have a nice day");
+
             Console.WriteLine();
         }
     }
